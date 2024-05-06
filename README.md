@@ -9,9 +9,13 @@ Details:
 -It provides both search and pagination capabilities.
 
 How to run:
--Run the HackerNews.Application project.
--Run "npm install node" command in the terminal.
--Run the Angular application with "ng serve" command.
+
+--Backend:
+  -Run the HackerNews.Application project from "..\Backend\HackerNews"
+--Frontend:
+  -Open folder "..\Frontend" in VS Code.
+  -Run "npm install node" (and "npm login" if necessary) command in the terminal.
+  -Run the Angular application with "ng serve" command.
 
 Configuration:
 The appsettings.json file contains some configuration for the app.
