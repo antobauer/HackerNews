@@ -1,0 +1,19 @@
+<nav aria-label="Page navigation example" class="my-3">
+    <ul class="pagination justify-content-center">
+        <li class="page-item" [class.disabled]="currentPage === 1" [style.cursor]="currentPage === 1 ? 'default' : 'pointer'">
+            <a class="page-link" (click)="currentPage !== 1 && changePage(1)">First</a>
+        </li>
+        <li class="page-item" [class.disabled]="currentPage === 1" [style.cursor]="currentPage === 1 ? 'default' : 'pointer'">
+            <a class="page-link" (click)="currentPage !== 1 && changePage(currentPage - 1)">Previous</a>
+        </li>
+        <li class="page-item" *ngFor="let page of getPages()" [class.active]="page === currentPage" [style.cursor]="page === currentPage ? 'default' : 'pointer'">
+            <a class="page-link" (click)="page !== currentPage && changePage(page)">{{ page }}</a>
+        </li>
+        <li class="page-item" [class.disabled]="currentPage === totalPages" [style.cursor]="currentPage === totalPages ? 'default' : 'pointer'">
+            <a class="page-link" (click)="currentPage !== totalPages && changePage(currentPage + 1)">Next</a>
+        </li>
+        <li class="page-item" [class.disabled]="currentPage === totalPages" [style.cursor]="currentPage === totalPages ? 'default' : 'pointer'">
+            <a class="page-link" (click)="currentPage !== totalPages && changePage(totalPages)">Last</a>
+        </li>
+    </ul>
+</nav>

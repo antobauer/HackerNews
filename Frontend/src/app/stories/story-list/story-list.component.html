@@ -1,0 +1,20 @@
+<div class="row mb-3">
+    <div class="col">
+        <div class="input-group">
+    <input [(ngModel)]="searchQuery" (keyup)="onSearch()" type="text" class="form-control" placeholder="Search stories..." aria-label="Search">
+    <button class="btn btn-outline-success" type="button" (click)="onSearch()">Search</button>
+</div>
+    </div>
+</div>
+<div class="list-group">
+    <ng-container *ngFor="let story of stories">
+        <a *ngIf="story.url" [href]="story.url" target="_blank" class="list-group-item list-group-item-action mb-2 p-2 rounded custom-border">
+            {{ story.title }}
+        </a>
+        <span *ngIf="!story.url" class="list-group-item list-group-item-action disabled mb-2 p-2 rounded custom-border" style="color: grey;">
+            {{ story.title }} (No link available)
+        </span>
+    </ng-container>
+</div>
+
+<app-pagination></app-pagination>
