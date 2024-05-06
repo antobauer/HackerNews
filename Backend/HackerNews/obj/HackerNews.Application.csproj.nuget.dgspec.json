@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NextTech Exercise\\Backend\\HackerNews\\HackerNews.Application.csproj": {}
+    "C:\\HackerNewsRepo\\Backend\\HackerNews\\HackerNews.Application.csproj": {}
   },
   "projects": {
-    "C:\\NextTech Exercise\\Backend\\HackerNews\\HackerNews.Application.csproj": {
+    "C:\\HackerNewsRepo\\Backend\\HackerNews\\HackerNews.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NextTech Exercise\\Backend\\HackerNews\\HackerNews.Application.csproj",
+        "projectUniqueName": "C:\\HackerNewsRepo\\Backend\\HackerNews\\HackerNews.Application.csproj",
         "projectName": "HackerNews.Application",
-        "projectPath": "C:\\NextTech Exercise\\Backend\\HackerNews\\HackerNews.Application.csproj",
+        "projectPath": "C:\\HackerNewsRepo\\Backend\\HackerNews\\HackerNews.Application.csproj",
         "packagesPath": "C:\\Users\\abauer\\.nuget\\packages\\",
-        "outputPath": "C:\\NextTech Exercise\\Backend\\HackerNews\\obj\\",
+        "outputPath": "C:\\HackerNewsRepo\\Backend\\HackerNews\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abauer\\AppData\\Roaming\\NuGet\\NuGet.Config",

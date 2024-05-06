@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JtncphQvBsc9KdjXQUPKnsS37KQ43NxQvFhp7Pk64A6JmTyITrveQ2gYVO5bvwo0RA3nOtcb11hdZzAO7r0srw==",
+  "dgSpecHash": "PEFhI8AzQiqEGBvzCQMdlKf0hjaqdi8QTbkqFpmwF4I4geETQuUMSxJnXGFzeg4acCcfkg9MrCFcYOwceRrDGw==",
   "success": true,
-  "projectFilePath": "C:\\NextTech Exercise\\Backend\\HackerNews\\HackerNews.Application.csproj",
+  "projectFilePath": "C:\\HackerNewsRepo\\Backend\\HackerNews\\HackerNews.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abauer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\abauer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g46yPMDbYog2N4d2gmmD3Xa6f9lV6GnqjyZVgcakxJfyNSZctko4GhwXm4KrbzKrN4cZa9jpWKR48ESldZMMBg==",
+  "dgSpecHash": "11XBV6kCbl4d1odoccz2jYr4oWQyLg8ozv51pGJZGqBCNc+o6kGK64NWMlunaEcRhtBOeji6g/WWDzZk3Rlh1A==",
   "success": true,
-  "projectFilePath": "C:\\NextTech Exercise\\Backend\\HackerNews.Test\\HackerNews.Test.csproj",
+  "projectFilePath": "C:\\HackerNewsRepo\\Backend\\HackerNews.Test\\HackerNews.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abauer\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\abauer\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
