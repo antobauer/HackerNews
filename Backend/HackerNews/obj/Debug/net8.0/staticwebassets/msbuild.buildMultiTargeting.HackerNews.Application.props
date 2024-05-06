@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HackerNews.Application.props" />
+</Project>

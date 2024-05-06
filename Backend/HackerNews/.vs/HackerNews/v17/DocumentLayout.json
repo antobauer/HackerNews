@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NextTech Exercise\\Backend\\HackerNews\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8F1261-8EA9-447E-B001-36BA0079E597}|..\\HackerNews.Test\\HackerNews.Test.csproj|c:\\nexttech exercise\\backend\\hackernews.test\\services\\hackernewsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|c:\\nexttech exercise\\backend\\hackernews\\services\\hackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|solutionrelative:services\\hackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|c:\\nexttech exercise\\backend\\hackernews\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|solutionrelative:models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|c:\\nexttech exercise\\backend\\hackernews\\models\\paging\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|solutionrelative:models\\paging\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|c:\\nexttech exercise\\backend\\hackernews\\interfaces\\ihackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|solutionrelative:interfaces\\ihackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|c:\\nexttech exercise\\backend\\hackernews\\domain\\appstartlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|solutionrelative:domain\\appstartlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|c:\\nexttech exercise\\backend\\hackernews\\controllers\\hackernewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|solutionrelative:controllers\\hackernewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|c:\\nexttech exercise\\backend\\hackernews\\backgroundservices\\cacherefreshservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|solutionrelative:backgroundservices\\cacherefreshservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|c:\\nexttech exercise\\backend\\hackernews\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|c:\\nexttech exercise\\backend\\hackernews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17E524-6BAB-4780-BE6B-510046F106C7}|HackerNews.Application.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 457,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\NextTech Exercise\\Backend\\HackerNews\\Models\\Story.cs",
+              "RelativeDocumentMoniker": "Models\\Story.cs",
+              "ToolTip": "C:\\NextTech Exercise\\Backend\\HackerNews\\Models\\Story.cs",
+              "RelativeToolTip": "Models\\Story.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:06:44.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HackerNewsServiceTest.cs",
+              "DocumentMoniker": "C:\\NextTech Exercise\\Backend\\HackerNews.Test\\Services\\HackerNewsServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\HackerNews.Test\\Services\\HackerNewsServiceTest.cs",
+              "ToolTip": "C:\\NextTech Exercise\\Backend\\HackerNews.Test\\Services\\HackerNewsServiceTest.cs",
+              "RelativeToolTip": "..\\HackerNews.Test\\Services\\HackerNewsServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:30:31.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HackerNewsService.cs",
+              "DocumentMoniker": "C:\\NextTech Exercise\\Backend\\HackerNews\\Services\\HackerNewsService.cs",
+              "RelativeDocumentMoniker": "Services\\HackerNewsService.cs",
+              "ToolTip": "C:\\NextTech Exercise\\Backend\\HackerNews\\Services\\HackerNewsService.cs",
+              "RelativeToolTip": "Services\\HackerNewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:45:15.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\NextTech Exercise\\Backend\\HackerNews\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\NextTech Exercise\\Backend\\HackerNews\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T14:18:51.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CacheRefreshService.cs",
+              "DocumentMoniker": "C:\\NextTech Exercise\\Backend\\HackerNews\\BackgroundServices\\CacheRefreshService.cs",
+              "RelativeDocumentMoniker": "BackgroundServices\\CacheRefreshService.cs",
+              "ToolTip": "C:\\NextTech Exercise\\Backend\\HackerNews\\BackgroundServices\\CacheRefreshService.cs",
+              "RelativeToolTip": "BackgroundServices\\CacheRefreshService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:27:30.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppStartLogic.cs",
+              "DocumentMoniker": "C:\\NextTech Exercise\\Backend\\HackerNews\\Domain\\AppStartLogic.cs",
+              "RelativeDocumentMoniker": "Domain\\AppStartLogic.cs",
+              "ToolTip": "C:\\NextTech Exercise\\Backend\\HackerNews\\Domain\\AppStartLogic.cs",
+              "RelativeToolTip": "Domain\\AppStartLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:48:15.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\NextTech Exercise\\Backend\\HackerNews\\Models\\Paging\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Models\\Paging\\PaginatedList.cs",
+              "ToolTip": "C:\\NextTech Exercise\\Backend\\HackerNews\\Models\\Paging\\PaginatedList.cs",
+              "RelativeToolTip": "Models\\Paging\\PaginatedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:59:58.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHackerNewsService.cs",
+              "DocumentMoniker": "C:\\NextTech Exercise\\Backend\\HackerNews\\Interfaces\\IHackerNewsService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IHackerNewsService.cs",
+              "ToolTip": "C:\\NextTech Exercise\\Backend\\HackerNews\\Interfaces\\IHackerNewsService.cs",
+              "RelativeToolTip": "Interfaces\\IHackerNewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:51:26.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HackerNewsController.cs",
+              "DocumentMoniker": "C:\\NextTech Exercise\\Backend\\HackerNews\\Controllers\\HackerNewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HackerNewsController.cs",
+              "ToolTip": "C:\\NextTech Exercise\\Backend\\HackerNews\\Controllers\\HackerNewsController.cs",
+              "RelativeToolTip": "Controllers\\HackerNewsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:54:20.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NextTech Exercise\\Backend\\HackerNews\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\NextTech Exercise\\Backend\\HackerNews\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:35:30.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

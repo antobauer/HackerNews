@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=779b7608_002D3733_002D4db9_002D9686_002Dcc8e55c9b8b0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetNewStoriesAsync_WithCache_UsesCachedData" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A8F1261-8EA9-447E-B001-36BA0079E597::net8.0::HackerNews.Test.Services.HackerNewsServiceTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=84aba5e3_002D3fdb_002D4d11_002D9ecb_002D17abcf8b38e7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetNewStoriesAsync_FiltersAndPaginatesCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A8F1261-8EA9-447E-B001-36BA0079E597::net8.0::HackerNews.Test.Services.HackerNewsServiceTest.GetNewStoriesAsync_FiltersAndPaginatesCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A8F1261-8EA9-447E-B001-36BA0079E597::net8.0::HackerNews.Test.Services.HackerNewsServiceTest.GetNewStoriesAsync_NoCache_FetchesStories&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A8F1261-8EA9-447E-B001-36BA0079E597::net8.0::HackerNews.Test.Services.HackerNewsServiceTest.GetNewStoriesAsync_WithCache_ReturnsCachedStories&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A8F1261-8EA9-447E-B001-36BA0079E597::net8.0::HackerNews.Test.Services.HackerNewsServiceTest.GetNewStoriesAsync_HasCache_FetchesStories&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A8F1261-8EA9-447E-B001-36BA0079E597::net8.0::HackerNews.Test.Services.HackerNewsServiceTest.GetNewStoriesAsync_WithCache_OnlyFetchesNewStories&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
