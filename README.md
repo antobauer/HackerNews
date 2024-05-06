@@ -10,7 +10,8 @@ Details:
 
 How to run:
 -Run the HackerNews.Application project.
--Run the Angular applicaiton.
+-Run "npm install node" command in the terminal.
+-Run the Angular application with "ng serve" command.
 
 Configuration:
 The appsettings.json file contains some configuration for the app.
